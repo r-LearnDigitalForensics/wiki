@@ -1,4 +1,4 @@
-#**Courses, Training, & Formal Education**
+# **Courses, Training, & Formal Education**
 
 ## **1. University Courses**
 The DF courses listed are all MSc level. Why no BSc you ask? Because I've yet to encounter a graduate of a DF BSc programme who was actually taught anything about DF during their course. 
