@@ -14,7 +14,17 @@ While containing some out-of-date information, this book provides an excellent o
 
 ## MacOS Forensics
 ### [**mac4n6 by Sarah Edwards**](https://www.mac4n6.com/)
-Not a book, but a great blog for MacOS and iOS forensics.
+Not a book, but a great blog for cutting edge MacOS and iOS forensics.
+
+### [**Bradley, Jaron. (2016). OS X Incident Response: Scripting and Analysis.**](https://www.amazon.com/OS-Incident-Response-Scripting-Analysis-ebook/dp/B01FHOHHVS)
+A solid, if out of date, guide to MacOS Forensics. Of particular note is Chapter 4 - File System covering HFS+ artefacts.
+
+### **Apple File System (APFS)***
+At the moment, there's no comprehensive reference for APFS written from a DF perspective (that I'm aware of!). Until it arrives, you'll have to rely on Apple's documentation, a great academic paper, and frequently searching for blog posts.
+
+#### [Apple File System Reference Documentation](https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf)
+
+#### [**Hansen, Kurt H. & Toolan, Fergus (2017). Decoding the APFS file system.** ***Digital Investigation***](https://cyberforensicator.com/wp-content/uploads/2017/11/DIIN_698_Revisedproof.1-min-ilovepdf-compressed.pdf)
 
 ## Linux Forensics
 ### [**Linux LEO by Barry Grundy**](https://linuxleo.com/)

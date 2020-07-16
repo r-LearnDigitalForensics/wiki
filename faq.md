@@ -1,4 +1,4 @@
-## Do I need a degree/certification to get a job?
+## Do I need a degree/certification/membership in a professional body to get a job?
 No, not always. 
 
 As in all things, experience and knowledge trumps credentials. Most interviews for entry-level positions will incorporate some kind of exam or knowledge check to make sure you know what you're talking about. Having a degree can make it easier to get that initial interview though.
