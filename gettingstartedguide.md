@@ -13,11 +13,15 @@ This should be considered the Hippocratic Oath of the forensicator. All aspects 
 
 ## Step 2. Do the Reading - A Comprehensive Overview of Digital Forensics
 The best textbook to introduce yourself to DF concepts is [Årnes, A. (Ed.). (2018). Digital Forensics. Hoboken, NJ: John Wiley & Sons Inc.](https://www.amazon.com/Digital-Forensics-Andr%C3%A9-%C3%85rnes-ebook/dp/B072MPTVHM). It provides a comprehensive overview of basic Digital Forensics theory.
-
 You should read this book from front to back. If you don't find it absolutely riveting, you should question if DF is the right pathway for you.  
 
-## Videos
-[13 Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) is a great resource for introductions to a wide variety of Digital Forensics topics. 
+## Step 3. Get Some Practical Experience 
+The best practical introduction to Digital Forensics is the [Linux LEO](https://linuxleo.com/) guide. 
+It provides a comprehensive guide to using Linux as a forensic platform, while teaching you the fundamentals of DF theory. 
+As a nice side effect, you'll learn how to use Linux too!
 
-## Practical Experience
-The best practical introduction to Digital Forensics is the [Linux LEO](https://linuxleo.com/) guide. It provides a comprehensive guide to using Linux as a forensic platform, while teaching you the fundamentals of DF theory. As a nice side effect, you'll learn how to use Linux too!
+## Step 4. Broaden your scope
+[13 Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q) is a great resource for introductions to a wide variety of Digital Forensics topics. His video content is an excellent way to dive into some more specific DF topics and tools. 
+
+## Where Next?
+Take a look at our [**FAQ**](https://www.reddit.com/r/LearnDigitalForensics/wiki/faq) and [**Reference Library**](https://www.reddit.com/r/LearnDigitalForensics/wiki/reference) for further pointers. If you're ready for some more formalised learning and would like some pieces of paper in return for your hard work, check out our [**Courses, Training, & Formal Education**](https://www.reddit.com/r/LearnDigitalForensics/wiki/courses) guide.

@@ -7,6 +7,9 @@ Find the answers to commonly asked questions here.
 #[**Courses, Training, & Formal Education**](https://www.reddit.com/r/LearnDigitalForensics/wiki/courses)
 Looking for some formal training? Find an overview of quality courses here. 
 
+#[**Reference Library**](https://www.reddit.com/r/LearnDigitalForensics/wiki/reference)
+Looking for a book to get started on a subject? Look no further! 
+
 #[**User Flair for Verified Professionals**](https://www.reddit.com/r/LearnDigitalForensics/wiki/userflair)
 Blatantly ripping off /r/forensics, we offer verified user flair so you can show off those credentials!
 
