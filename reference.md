@@ -13,11 +13,11 @@ A great guide, that walks you through the process of Windows investigations. Of 
 While containing some out-of-date information, this book provides an excellent overview of the Windows Registry and it's forensic importance. Once you have the base level of knowledge and understanding, you can find newer registry artifacts online.
 
 ## MacOS Forensics
-### [mac4n6 by Sarah Edwards](https://www.mac4n6.com/)
+### [**mac4n6 by Sarah Edwards**](https://www.mac4n6.com/)
 Not a book, but a great blog for MacOS and iOS forensics.
 
 ## Linux Forensics
-### [Linux LEO by Barry Grundy](https://linuxleo.com/)
+### [**Linux LEO by Barry Grundy**](https://linuxleo.com/)
 Not strictly a Linux Forensics book, but rather a book on how to use Linux in your investigations. However, it does give a great overview on how Linux works, and is a great starting point for those less familiar with the inner workings of penguins. 
 
 ### [**Polstra, Philip. (2015). Linux Forensics.**](https://www.amazon.com/Linux-Forensics-Dr-Philip-Polstra/dp/1515037630/)
