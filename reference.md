@@ -19,7 +19,7 @@ Not a book, but a great blog for cutting edge MacOS and iOS forensics.
 ### [**Bradley, Jaron. (2016). OS X Incident Response: Scripting and Analysis.**](https://www.amazon.com/OS-Incident-Response-Scripting-Analysis-ebook/dp/B01FHOHHVS)
 A solid, if out of date, guide to MacOS Forensics. Of particular note is Chapter 4 - File System covering HFS+ artefacts.
 
-### **Apple File System (APFS)***
+### **Apple File System (APFS)**
 At the moment, there's no comprehensive reference for APFS written from a DF perspective (that I'm aware of!). Until it arrives, you'll have to rely on Apple's documentation, a great academic paper, and frequently searching for blog posts.
 
 #### [Apple File System Reference Documentation](https://developer.apple.com/support/downloads/Apple-File-System-Reference.pdf)
