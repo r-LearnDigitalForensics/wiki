@@ -36,3 +36,5 @@ Very well regarded, very high quality training, very expensive. They have an ext
 
 ### IACIS
 They provide several courses along the pathway to their Certified Computer Forensic Examiner (CFCE) certification, starting with the Basic Computer Forensic Examiner training [here](https://www.iacis.com/training/). The course is well regarded, and assumes no prior knowledge.
+
+**Visit [dfir.training](https://www.dfir.training/events-dir) for many more DF courses**
