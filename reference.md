@@ -23,6 +23,10 @@ Not strictly a Linux Forensics book, but rather a book on how to use Linux in yo
 ### [**Polstra, Philip. (2015). Linux Forensics.**](https://www.amazon.com/Linux-Forensics-Dr-Philip-Polstra/dp/1515037630/)
 Provides a good overview of Linux Forensics, and how to leverage Python and Bash to aid your investigation. This is a companion book to [Polstra's course on PentesterAcademy](https://www.pentesteracademy.com/course?id=20=).
 
+## File System Forensics
+### [**Carrier, Brian. (2005). File System Forensic Analysis.**](https://www.amazon.com/System-Forensic-Analysis-Brian-Carrier/dp/0321268172/ref=sr_1_1?dchild=1&keywords=file+system+forensics&qid=1594894541&s=books&sr=1-1)
+Quite outdated, but still a great reference from the developer of The Sleuth Kit. You'll pick up lots of transferable skills that will allow you to understand more modern file systems by using their documentation.
+
 ## Memory Forensics
 ### [**Ligh, Michael Hale. et al. (2014). The Art of Memory Forensics: Detecting Malware and Threats in Windows, Linux, and Mac Memory.**](https://www.amazon.com/Art-Memory-Forensics-Detecting-Malware/dp/1118825098/ref=sr_1_1?dchild=1&keywords=memory+forensics&qid=1594889316&s=books&sr=1-1)
 The Satanic Bible of the Dark Art of Memory Forensics, written by the developers of Volatility. Heavy going, but extremely useful.

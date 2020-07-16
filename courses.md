@@ -29,7 +29,7 @@ Makers of Encase. They offer a variety of different courses, which can be viewed
 ### **Basis Technologies**
 Makers of Autopsy, a GUI for The Sleuth Kit. They offer a short, 8-hour introduction to using their tool [here](https://training.autopsy.com/). Currently free for US Law Enforcement. This is very tool focused, and is aimed at teaching established forensicators how to use Autopsy effectively.
 
-## **3. Other Courses**
+## **3. General Courses**
 
 ### SANS
 Very well regarded, very high quality training, very expensive. They have an extensive catalogue of courses covering a wide variety of DF topics [here](https://www.sans.org/cyber-security-courses/?focus-area=digital-forensics). This is another one to ask for once you're employed and have a training budget, don't pay for these out of your own pocket. 
@@ -37,4 +37,8 @@ Very well regarded, very high quality training, very expensive. They have an ext
 ### IACIS
 They provide several courses along the pathway to their Certified Computer Forensic Examiner (CFCE) certification, starting with the Basic Computer Forensic Examiner training [here](https://www.iacis.com/training/). The course is well regarded, and assumes no prior knowledge.
 
-**Visit [dfir.training](https://www.dfir.training/events-dir) for many more DF courses**
+### College of Policing
+CoP is a UK body responsible for Police learning and development. Their basic [Core Skills in Data Recovery and Analysis](https://www.college.police.uk/What-we-do/Learning/Professional-Training/digital-and-cyber-crime/Pages/Core-Skills-Data-Recovery-and-Analysis.aspx) provides a solid (if somewhat outdated) overview of DF techniques and evidence handling. It is a two-week residential course, and is only open to UK Law Enforcement.
+
+## **4. Other Courses**
+Visit the excellent [dfir.training](https://www.dfir.training/events-dir) for many more DF courses.
