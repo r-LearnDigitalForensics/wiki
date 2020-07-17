@@ -5,13 +5,13 @@ Flairs are in the format:
 
     [Degree Type] | [Arena of Experience]
 
-So, for someone with an MSc in a DF subject who's experience is in law enforcement, you'll get:
+So, for someone with an MSc in a DF subject whos experience is in law enforcement, you'll get:
 
     MSc Digital Forensics | LEA
 
 Someone with a BSc in Computer Science and works in the private sector would get:
 
-    BSc | Private
+    BSc | Private Sector
 
 # Verification
 Send us a modmail. We need a few things from you, though:
