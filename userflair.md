@@ -13,6 +13,10 @@ Someone with a BSc in Computer Science and works in the private sector would get
 
     BSc | Private Sector
 
+To keep things compact, only your highest-level of education will be listed. Some professional certifications (e.g. CISSP) are considered to be Masters Degree level and will be listed accordingly. 
+
+Your *Area of Experience* is the field in which you have spent most of your career.
+
 # Verification
 Send us a modmail. We need a few things from you, though:
 
