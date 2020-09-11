@@ -11,10 +11,13 @@ If you've graduated from a great programme I'm unaware of, please let me know an
 The [Forensic Computing & Cybercrime Investigation MSc](https://www.ucd.ie/cci/education/prospective_students/fcci_programmes/module_options.html) is very popular amongst Law Enforcement. It is almost exclusively online, with attendance on campus for exams only.  Note that this programme only admits those in Law Enforcement. They did also have a civilian equivalent with the [MSc in Digital Investigation & Forensic Computing](https://www.ucd.ie/cci/education/prospective_students/msc_difc.html) which has some slightly different, less sensitive content, but they don't seem to be accepting new applicants at the moment.
 
 ### **Champlain College - USA**
-Their [Cybersecurity & Digital Forensics](https://www.champlain.edu/cybersecurity-and-digital-forensics) is extremely well regarded in US LEAs, and is recognised by the United States National Security Agency and the Department of Homeland Security. They offer both online and in-person courses.
+Their [Cybersecurity & Digital Forensics](https://www.champlain.edu/cybersecurity-and-digital-forensics) is extremely well regarded in US LEAs, and is recognised by the United States National Security Agency and the Department of Homeland Security. They offer both online and in-person courses. They are certified under the National Centers of Digital Forensics Academic Excellence (CDFAE) programme (more info about this below).
 
 ### **NTNU - Norway**
 The [Information Security MSc](https://www.ntnu.edu/studies/mis) offers a DF pathway. The teaching language is English, and is taught at their campus in Gjøvik. The DF faculty is highly regarded, and produces quality research. This would be a good program if you wanted to stay in the research side of DF. A bonus is that tuition is free for EEA nationals. 
+
+### **National Centers of Digital Forensics Academic Excellence (CDFAE) - USA**
+The Department of Defence Cyber Crime Center (DC3) maintains a list of US schools that meet their standard for a well-rounded DF curriculum. If you're interested in US Government or Law Enforcement roles, attending one of these schools is a good idea. They allow access to a certificate of completion that can be exchanged for a Department of Defence certification once you gain employment with a federal agency or approved contractor.
 
 ## **2. Tool Vendor Courses**
 These courses mainly teach you how to use a given tool, though many do go deeper. Quality and price can vary wildly. It is almost never worth paying for these courses yourself. You would not be expected to have attended any of these for an entry-level position, but you should ask for them once you have a foot in the door and a training budget. 
